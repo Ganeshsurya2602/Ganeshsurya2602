@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ganeshsurya2602
-- 👀 I’m interested in Python devlopment
+- 👋 Hi, I’m Ganesh Suryawanhi
+- 👀 I’m interested in Python devlopment, js mern,java,c
 - 🌱 I’m currently learning Computer Engineering
 - 😄 Pronouns: GANESH
 - ⚡ Fun fact: ...
