@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ganesh Suryawanhi
+- 👋 Hi, I’m Ganesh Suryawanshi
 - 👀 I’m interested in Python devlopment, js mern,java,c
 - 🌱 I’m currently learning Computer Engineering
 - 😄 Pronouns: GANESH
