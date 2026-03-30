@@ -1,82 +1,90 @@
-<!-- 🔥 HEADER -->
+<!-- 🔥 PREMIUM HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=230&section=header&text=GANESH%20SURYAWANSHI&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:00F7FF&height=260&section=header&text=GANESH%20SURYAWANSHI&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ⚡ TYPING -->
+<!-- ⚡ ANIMATED ROLE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analyst;AI+%2F+ML+Explorer;Building+Real+World+Projects🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analyst;AI+%2F+ML+Explorer;Building+Future+Tech🚀" />
 </p>
 
 ---
 
-<!-- 🧊 INTRO -->
+<!-- 🧊 GLASS PROFILE CARD -->
 
 <div align="center">
 
-```yaml
-👤 Name: Ganesh Suryawanshi
-📧 Email: ganeshg2602@gmail.com
-🔗 LinkedIn: linkedin.com/in/GaneshgSuryawanshi
-📍 Location: India 🇮🇳
-🎓 Field: Computer Engineering
+<table width="85%">
+<tr>
+<td align="left">
 
-💡 Areas of Interest:
-  - Python, C, Java Developer
-  - Data Analysis
-  - MERN Stack Development
+### 👤 PROFILE
 
-🌍 Languages:
-  - English
-  - Hindi
-  - Marathi
-```
+👨‍💻 <b>Ganesh Suryawanshi</b>
+📧 [ganeshg2602@gmail.com](mailto:ganeshg2602@gmail.com)
+🔗 linkedin.com/in/GaneshgSuryawanshi
+📍 India 🇮🇳
+🎓 Computer Engineering
+
+</td>
+
+<td align="right">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- 🛠️ TECH STACK -->
+<!-- 💡 INTEREST + LANG GRID -->
 
 <div align="center">
 
-### ⚙️ Technical Skills
+<table width="85%">
+<tr>
+<td width="50%" align="left">
 
-```diff
-+ Web Development → HTML • CSS • JS • React • Node • Express
-+ Programming → Python • Java • C
-+ Database → MySQL • Firebase • MongoDB
-+ Tools → GitHub • VS Code • Power BI • Canva • MS Word • PowerPoint
-```
+### 💡 Interests
+
+• Python, C, Java Development
+• Data Analysis
+• MERN Stack Development
+
+</td>
+
+<td width="50%" align="left">
+
+### 🌍 Languages
+
+• English
+• Hindi
+• Marathi
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- 💼 EXPERIENCE -->
+<!-- ⚙️ TECH STACK (LOGOS ONLY 🔥) -->
 
-<details>
-<summary><b>💼 Work Experience</b></summary>
+<div align="center">
 
-<br>
+### ⚙️ TECH STACK
 
-### 📊 Data Analyst Intern — Imarticus Learning (Jun 2025 – Jul 2025)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,c,mysql,mongodb,firebase,git,github,vscode&perline=8" />
+</p>
 
-* Worked on Customer, Space Mission & Crime Data Analysis
-* Used SQL, Python & Power BI
-* Built dashboards and derived business insights
-
----
-
-### 💻 MERN Stack Developer Intern — Mernix Consulting (Jan 2025)
-
-* Developed 4 projects: GST Calculator, AQI Checker, Auth System, Email Tool
-* Used React, Node, Firebase & MySQL
-* Implemented APIs, automation & full-stack features
-
-</details>
+</div>
 
 ---
 
@@ -87,19 +95,14 @@
 
 <br>
 
-```yaml
-⌨️ Typing Speed Game:
-  Tech: Python (Tkinter)
-  Features: Timer, Score Tracking, Dynamic UI
+⌨️ <b>Typing Speed Game</b>
+Python (Tkinter) → Timer, Score
 
-🔐 Authentication Web App:
-  Tech: React + Firebase
-  Features: Login, Signup, Protected Routes, Password Reset
+🔐 <b>Authentication Web App</b>
+React + Firebase → Secure login system
 
-🎮 Squid Game Web App:
-  Tech: HTML, CSS, JavaScript
-  Features: Multi-level Gameplay, Animations, Responsive UI
-```
+🎮 <b>Squid Game Web App</b>
+HTML + JS → Interactive gameplay
 
 </details>
 
@@ -109,11 +112,9 @@
 
 <div align="center">
 
-### 🎨 Hobbies
+### 🎨 HOBBIES
 
-```css
-Crafting • Cleaning • Decoration • Creative Work ✨
-```
+✨ Crafting • Cleaning • Decoration • Creativity
 
 </div>
 
@@ -123,10 +124,14 @@ Crafting • Cleaning • Decoration • Creative Work ✨
 
 <div align="center">
 
-### 🌐 Connect With Me
+### 🌐 CONNECT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://linkedin.com/in/GaneshgSuryawanshi)
-[![Gmail](https://img.shields.io/badge/Gmail-FF4B5C?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ganeshg2602@gmail.com)
+<a href="https://linkedin.com/in/GaneshgSuryawanshi">
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+<a href="mailto:ganeshg2602@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF4B5C?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
