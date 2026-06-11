@@ -1,120 +1,191 @@
-<!-- 🔥 HEADER -->
+<!-- =========================
+        HERO BANNER
+========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:00F7FF&height=240&section=header&text=GANESH%20SURYAWANSHI&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:06b6d4&text=Ganesh%20Suryawanshi&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 </p>
 
-<!-- ⚡ TYPING -->
+<h1 align="center">Hi 👋, I'm Ganesh Suryawanshi</h1>
+
+<h3 align="center">
+Computer Engineering Student • Full Stack Developer • AI/ML Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analyst;AI+%2F+ML+Explorer;Building+Modern+Tech🚀" />
+Building practical software solutions and exploring modern technologies.
+</p>
+
+<p align="center">
+  <a href="mailto:ganeshg2602@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://linkedin.com/in/GaneshgSuryawanshi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Ganeshsurya2602">
+    <img src="https://img.shields.io/github/followers/Ganeshsurya2602?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-<!-- 🧊 PROFILE INLINE (FIXED 🔥) -->
+# 👨‍💻 About Me
 
-<div align="center">
+- 🎓 Computer Engineering Student
+- 💻 Full Stack Developer
+- 🤖 Interested in AI & Machine Learning
+- 📊 Learning Data Analytics
+- 🌱 Exploring Open Source
+- 🚀 Building real-world software projects
+- 📍 India
 
-### 👤 PROFILE
+---
+
+# 🚀 Tech Stack
+
+## Programming Languages
 
 <p>
-👨‍💻 <b>Ganesh Suryawanshi</b> &nbsp; • &nbsp;
-📧 <a href="mailto:ganeshg2602@gmail.com">ganeshg2602@gmail.com</a> &nbsp; • &nbsp;
-🔗 <a href="https://linkedin.com/in/GaneshgSuryawanshi">LinkedIn</a> &nbsp; • &nbsp;
-📍 India 🇮🇳 &nbsp; • &nbsp;
-🎓 Computer Engineering
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
-</div>
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-<!-- 💡 INTEREST + LANG (SIDE BY SIDE CLEAN) -->
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<table width="80%">
-<tr>
-<td width="50%" align="center">
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Ganeshsurya2602&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 💡 Interests
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshsurya2602&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Python • C • Java • Data Analysis • MERN Stack
-
-</td>
-
-<td width="50%" align="center">
-
-### 🌍 Languages
-
-English • Hindi • Marathi
-
-</td>
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
-<!-- ⚙️ TECH STACK (LOGOS) -->
+# 🔥 GitHub Streak
 
-<div align="center">
-
-### ⚙️ TECH STACK
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,c,mysql,mongodb,firebase,git,github,vscode&perline=8" />
-
-</div>
-
----
-<!-- 🚀 PROJECTS -->
-
-<div align="center">
-
-### 🚀 PROJECTS
-
-</div>
-
-**⌨️ Typing Speed Game**
-Python (Tkinter) • Timer • Score
-
-<br>
-
-**🔐 Authentication Web App**
-React + Firebase • Secure login
-
-<br>
-
-**🎮 Squid Game Web App**
-HTML • CSS • JS • Interactive gameplay
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ganeshsurya2602&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<!-- 🎨 HOBBIES -->
+# 🏆 Featured Projects
 
-<div align="center">
+## 🌾 Crop Recommendation System
 
-### 🎨 HOBBIES
+Machine Learning project that recommends suitable crops based on soil and environmental conditions.
 
-✨ Crafting • Cleaning • Decoration
+**Tech Stack:** Python, Pandas, Scikit-Learn
 
-</div>
+🔗 Repository Link
 
 ---
 
-<!-- 🌐 CONNECT -->
+## ⌨️ Typing Speed Game
 
-<div align="center">
+Desktop application for improving typing speed with timer and score tracking.
 
-### 🌐 CONNECT
+**Tech Stack:** Python, Tkinter
+
+🔗 Repository Link
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshsurya2602&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React.js
+- Machine Learning
+- Data Analytics
+- Cloud Computing
+- System Design
+
+---
+
+# 🎯 Goals for 2026
+
+- Build impactful software projects
+- Contribute to Open Source
+- Improve Full Stack Development skills
+- Explore AI & Machine Learning applications
+- Secure a Software Developer role
+
+---
+
+# 🤝 Open For
+
+✅ Internship Opportunities
+
+✅ Freelance Projects
+
+✅ Open Source Contributions
+
+✅ Collaboration on Innovative Ideas
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ganeshg2602@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 <a href="https://linkedin.com/in/GaneshgSuryawanshi">
-  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-<a href="mailto:ganeshg2602@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF4B5C?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-</div>
+<a href="https://github.com/Ganeshsurya2602">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 Quote
+
+*"Turning ideas into real-world software solutions."*
+
+</p>
